@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Build: Mock building process done!\" && exit 0",
     "start": "node server"
   },
   "author": "",
